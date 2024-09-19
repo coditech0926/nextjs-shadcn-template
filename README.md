@@ -2,11 +2,6 @@
  🚀 Next.js Boilerplate 2024
 </h1>
 
-[![Build Next.js Application](https://github.com/edwinhern/next-template-2024/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/edwinhern/next-template-2024/actions/workflows/build.yml)
-[![CodeQL](https://github.com/edwinhern/next-template-2024/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/edwinhern/next-template-2024/actions/workflows/github-code-scanning/codeql)
-[![Docker Image CI](https://github.com/edwinhern/next-template-2024/actions/workflows/docker-image.yml/badge.svg?branch=main)](https://github.com/edwinhern/next-template-2024/actions/workflows/docker-image.yml)
-[![Release](https://github.com/edwinhern/next-template-2024/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/edwinhern/next-template-2024/actions/workflows/release.yml)
-
 Welcome to the Next.js Boilerplate 2024 – your starting point for building modern web applications that are ready to take on tomorrow's challenges.
 
 ## ⚡ Features & Technologies
@@ -41,7 +36,7 @@ Explore these tools to further enhance your development workflow:
 Begin by cloning the repository, navigating to the project directory, and installing dependencies. Execute the following command in your terminal:
 
 ```bash
-git clone https://github.com/edwinhern/next-template-2024.git && cd next-template-2024 && npm ci
+git clone https://github.com/coditech0926/nextjs-shadcn-template.git && cd nextjs-shadcn-template && npm ci
 ```
 
 ### Step 2: 🏃‍♂️ Running the Project
